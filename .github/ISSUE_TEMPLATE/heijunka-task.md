@@ -7,13 +7,14 @@ assignees: ''
 
 ---
 
-- [ ] ##Problembeschrieb
+##Problembeschrieb
+ - [ ] Vorhanden?
 
+##Lösungsansatz
+ - [ ] Vorhanden?
 
- - [ ] ##Lösungsansatz
+##Liefergut
+ - [ ] Vorhanden?
 
-
- - [ ] ##Liefergut
-
-
- - [ ] ##Auftraggeber
+##Auftraggeber
+ - [ ] Vorhanden?
